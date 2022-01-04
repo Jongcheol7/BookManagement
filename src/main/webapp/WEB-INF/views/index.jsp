@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>안녕하세요 Spring MVC</h1>
-	<img src="img/icon-spring-framework.svg">
+	<a href="create">create 화면으로 이동</a>
 </body>
 </html>
